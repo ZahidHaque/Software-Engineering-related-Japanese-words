@@ -7,3 +7,4 @@
 <h2>Context 3:</h2> <p>Version 3.3.7 がリリースされました。</p> <p><b>リリース</b> (rirīsu) - release (<br> ex: <br> 新しいスマートフォンがリリースされました。 (A new smartphone has been released.)<br> 映画がリリースされました。 (The movie has been released.)<br> アルバムがリリースされました。 (The album has been released.)<br> )<br> <b>されました</b> (saremashita) - was done</p> 
 
 </pre>
+MY name is khan
