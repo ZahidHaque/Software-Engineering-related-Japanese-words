@@ -11,7 +11,7 @@
   2. <b>デプロイ</b> (depuroi) - deploy<br> 
   3. <b>します</b> (shimasu) - will do<br> 
   4. <b>終わりました</b> (owarimashita) - finished (デプロイ終わりました)<br> 
-  5. <b>ブラウザ</b> (burauza) - browser (ブラウザのデプロイ終わりました。)
+  5. <b>ブラウザ</b> (burauza) - browser (ブラウザのデプロイ終わりました。)<br>
   6. <b>今から</b> (ima kara) - from now<br> 
 </p>
 
