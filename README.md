@@ -17,7 +17,7 @@
 
 <h2>Context 3:</h2> <p>Version 3.3.7 がリリースされました。</p> <p>1. <b>リリース</b> (rirīsu) - release (<br> ex: <br> 新しいスマートフォンがリリースされました。 (A new smartphone has been released.)<br> 映画がリリースされました。 (The movie has been released.)<br> アルバムがリリースされました。 (The album has been released.)<br> )<br> 2. <b>されました</b> (saremashita) - was done</p> 
 
-<h2>Context 4:</h2> <p>今から本番環境にデプロイします</p> 
+<h2>Context 4:</h2> <p>商品マスタ管理のバグを見つけました。こちらのリリース日はいつがいいでしょうか？</p> 
 <p>
   1. <b>商品マスタ管理</b> (shōhin masuta kanri) - product master management<br> 
   2. <b>バグ</b> (bagu) - bug<br> 
