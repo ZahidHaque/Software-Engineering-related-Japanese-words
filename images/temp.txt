@@ -1,1 +1,1 @@
-<li><img src=“image_url” alt=“An image should be attached in html tag”></li> 
+<li><img src=“images” alt=“listen to audio of google translate”></li> 
