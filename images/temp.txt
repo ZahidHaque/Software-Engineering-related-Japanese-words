@@ -1,1 +1,0 @@
-<li><img src=“images” alt=“listen to audio of google translate”></li> 
